@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Open+Sans:ital@0;1&display=swap');
+* {
+    margin: auto;
+}
+body {
+    background-image: url(paisagen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 2em;
+}
+
+.conteiner {
+    width: 380px;
+    background-color: #86828246;
+    box-shadow: 1px 9px 21px rgba(0, 0, 0, 0.496);
+    text-align: center;
+    position: relative;
+    padding: 10px;
+    top: 520px;
+    border-radius: 90px;
+}
+
+p{
+    font-family: "Cinzel", serif;
+    font-style: normal;
+    color: #fff706;
+    margin: 10px;
+}
+a{
+    padding: 2px 7px;
+    background-color: #ffffff31;
+    margin: 10px;
+    color: #ffffff;
+    text-decoration: none;
+}
